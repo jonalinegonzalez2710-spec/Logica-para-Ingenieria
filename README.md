@@ -1,4 +1,4 @@
-# Logica-para-Ingenieria
+# Módulo 1: Lógica Proposicional y de Predicados.
 # Lógica Matemática para Ingeniería de Sistemas 🚀
 
 Este repositorio contiene mis apuntes, ejercicios y lógica aplicada desarrollados durante mi formación en Ingeniería de Sistemas. El objetivo es documentar la base teórica que sustenta el desarrollo de algoritmos y estructuras de datos.
